@@ -52,9 +52,12 @@ Com isso será executado o comando **git add** e depois o **git commit -m**, ap�
 Os alias podem ser usados para qualquer comando que seja executável no terminal do seu sistema, então é possível criar aliases para os mais diversos usos.
 
 ## 🤖 Linux
-⚠️ Em andamento
 
----
+Para utilizar os aliases disponíveis no arquivo .bashrc aqui disponível, após clonar o repositório, utilize o comando aseguir a partir da home do seu usuário
+
+```
+cat <diretório>/git-aliases/.bashrc >> .bashrc
+```
 
 # 🤓 Meu bashrc
 Aqui nesse repositório você vai encontrar o meu arquivo **.bashrc**, para usa-lo basta você substituir o seu bashrc pelo o meu e reiniciar o terminal (famoso fechar e abrir de novo).
